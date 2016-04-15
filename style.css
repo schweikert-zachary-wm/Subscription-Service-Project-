@@ -1,0 +1,134 @@
+#sidesT {
+    width: 94%;
+    height: 5%;
+    background-color: dimgray;
+    margin: auto;
+
+}
+#sidesR {
+    width: 3%;
+    height: 100%;
+    background-color: dimgray;
+    float: left;
+
+}
+#sidesL {
+    width: 3%;
+    height: 100%;
+    background-color: dimgray;
+    float: right
+
+}
+#sidesB {
+    width: 100%;
+    height: 5%;
+    background-color: dimgray;
+    margin-top: 43.1%;
+}
+
+#board {
+    width: 57.5%;
+    height: 90%;
+    background-color: gray;
+    margin: auto;
+    float: left;
+}
+.tileBlack {
+    width: 12.5%;
+    height: 16.67%;
+    float: left;
+    background-color: darkslategray;
+}
+.tileWhite {
+    width: 12.5%;
+    height: 16.67%;
+    float: left;
+    background-color: white;
+}
+.sprite {
+    height: 90%;
+    width: 90%;
+    padding-top: 10%;
+}
+#sidebar {
+    background-color: cadetblue;
+    width: 300px;
+    height: 90%;
+    margin-right: 1%;
+    float: left;
+}
+body {
+    background-color: sandybrown;
+}
+#top {
+    background-color: #006060;
+    width: 100%;
+    color: ghostwhite;
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+    height: 50px;
+}
+#account2 {
+    background-color: #4e4e4e;
+    width: 500px;
+    height: 70px;
+    font-size: 40px;
+    color: ghostwhite;
+    text-align: center;
+    padding-top: 30px;
+}
+#image {
+    background-color: cadetblue;
+    width: 200px;
+    height: 200px;
+    float: left;
+
+}
+#account3 {
+    background-color: #4e4e4e;
+    width: 500px;
+    height: 70px;
+    font-size: 15px;
+    color: ghostwhite;
+    text-align: center;
+    padding-top: 30px;
+}
+#nofloat {
+    float: left;
+}
+#account {
+    height: 200px;
+}
+#main {
+    height: 50px;
+    width: 200px;
+    text-align: center;
+}
+#back {
+    padding-top: 15px;
+    width: 100px;
+    height: 35px;
+    float: right;
+    background-color: lightsteelblue;
+    margin-right: 200px;
+}
+
+
+#form2 {
+    float: left;
+    background-color: antiquewhite;
+}
+#table2 {
+    float: left;
+    border: 1px;
+}
+td {
+background-color: floralwhite;
+}
+
+
+
+
+
